@@ -9,7 +9,7 @@
 
   composer = "Twenty One Pilots"
 
-  arranger = "Ø"
+  arranger = "FPE"
 
   tagline = ##f
 
